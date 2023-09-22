@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <Id value="$moduleid$" />
+  <Name value="$modulename$" />
+  <Version value="v$version$" />
+  <DefaultModule value="false" />
+  <ModuleCategory value="Singleplayer"/>
+  <ModuleType value="Community" />
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.2.2" />
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" />
+    <DependedModule Id="CustomBattle" />
+  </DependedModules>
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis" version="v2.2.2" />
+    <DependedModuleMetadata id="Native" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+  <SubModules>
+    <SubModule>
+      <Name value="$modulename$" />
+      <DLLName value="$modulename$.dll" />
+      <SubModuleClassType value="$modulename$.SubModule" />
+      <Tags />
+    </SubModule>
+  </SubModules>
+	<Xmls>
+			<XmlNode>
+				<XmlName id="Items" path="items"/>
+				<IncludedGameTypes>
+					<GameType value = "CustomGame"/>
+				</IncludedGameTypes>
+			</XmlNode>
+			<XmlNode>
+				<XmlName id="NPCCharacters" path="sg_spnpccharacters"/>
+				<IncludedGameTypes>
+					<GameType value = "CustomGame"/>
+				</IncludedGameTypes>
+			</XmlNode>
+			<XmlNode>
+				<XmlName id="Monsters" path="monsters"/>
+				<IncludedGameTypes>
+					<GameType value = "CustomGame"/>
+				</IncludedGameTypes>
+			</XmlNode>
+	</Xmls>
+</Module>

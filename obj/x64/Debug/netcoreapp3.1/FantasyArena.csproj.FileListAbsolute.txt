@@ -1,0 +1,10 @@
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\netcoreapp3.1\FantasyArena.deps.json
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\netcoreapp3.1\FantasyArena.dll
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\netcoreapp3.1\FantasyArena.pdb
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.csproj.AssemblyReference.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.AssemblyInfoInputs.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.AssemblyInfo.cs
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.csproj.CoreCompileInputs.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.dll
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\FantasyArena.pdb

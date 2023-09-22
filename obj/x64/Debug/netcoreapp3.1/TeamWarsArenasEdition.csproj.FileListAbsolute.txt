@@ -1,0 +1,10 @@
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.deps.json
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.dll
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.pdb
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.csproj.AssemblyReference.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.AssemblyInfoInputs.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.AssemblyInfo.cs
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.csproj.CoreCompileInputs.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.dll
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\netcoreapp3.1\TeamWarsArenasEdition.pdb
