@@ -19,8 +19,8 @@ Key Features:
 
     Dynamic Atmosphere: Be captivated by an immersive atmosphere with an announcer providing lively commentary during battles and the roar of the crowd echoing through the arena. (TODO)
 
-Installation:
-[Include installation instructions here]
+Steam Workshop:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3039218122
 
 Feedback and Contributions:
 We welcome your feedback and contributions to enhance the Team Wars: Arenas Edition mod. Feel free to report issues, suggest improvements, or collaborate with us to make this mod even more fantastic.
