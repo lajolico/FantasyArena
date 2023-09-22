@@ -1,0 +1,9 @@
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\net472\TeamWarsArenasEdition.dll
+C:\Users\warso\Desktop\TeamWarsArenasEdition\bin\x64\Debug\net472\TeamWarsArenasEdition.pdb
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.csproj.AssemblyReference.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.AssemblyInfoInputs.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.AssemblyInfo.cs
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.csproj.CoreCompileInputs.cache
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.dll
+C:\Users\warso\Desktop\TeamWarsArenasEdition\obj\x64\Debug\net472\TeamWarsArenasEdition.pdb
