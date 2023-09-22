@@ -23,7 +23,7 @@ Steam Workshop:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3039218122
 
 Feedback and Contributions:
-We welcome your feedback and contributions to enhance the Team Wars: Arenas Edition mod. Feel free to report issues, suggest improvements, or collaborate with us to make this mod even more fantastic.
+We welcome your feedback and contributions to enhance the Fantasy Arena mod. Feel free to report issues, suggest improvements, or collaborate with us to make this mod even more fantastic.
 
 License:
 If you decide to change the code or use it, please add a reference to me here. Thank you.
