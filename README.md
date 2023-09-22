@@ -1,7 +1,7 @@
 # Fantasy Arena
 
 
-Team Wars: Arenas Edition is a fun modification for Mount & Blade: Bannerlord that transports players into a world of epic gladiatorial battles and fierce team-based combat. Immerse yourself in the grandeur of a legendary arena where teams of warriors, each with its unique theme and composition, clash for glory, riches, and the thrill of victory.
+Fantasy Arena is a fun modification for Mount & Blade: Bannerlord that transports players into a world of epic gladiatorial battles and fierce team-based combat. Immerse yourself in the grandeur of a legendary arena where teams of warriors, each with its unique theme and composition, clash for glory, riches, and the thrill of victory.
 
 Key Features:
 
